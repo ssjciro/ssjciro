@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/YeLsS65XBEk7e/giphy.gif" width="200" />
+    <img src="https://media.giphy.com/media/5qII4FPBe5aqQ/giphy.gif" width="200" />
   <h1 align="center">I'm CiroSSJ</h1>
   <h3 align="center">Passionate about programming and student born in Argentina, I'm new to programming but I really like it.</h3>
 </div>
