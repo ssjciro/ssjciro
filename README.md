@@ -31,7 +31,7 @@
 - 👤 I'm currently learning **javascript, python and discord.js**
 
 <div align="left">
-    <h3>Languages and Tools:</h3>
+    <h3>Languages and Frameworks:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"&nbsp>
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS" width="40" height="40"&nbsp>
@@ -40,6 +40,10 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" title="RB" alt="RUBY" width="40" height="40"&nbsp>
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="php" alt="PHP" width="40" height="40"&nbsp>
         <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-plain.svg" title="d.js" alt="DISCORDJS" width="40" height="40"&nbsp>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-plain.svg" title="go" alt="go" width="40" height="40"&nbsp>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"&nbsp>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="node.js" alt="node.js" width="40" height="40"&nbsp>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="php" alt="php" width="40" height="40"&nbsp>
     </div>
     
 -  -  -
