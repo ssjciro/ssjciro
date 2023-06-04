@@ -22,18 +22,18 @@
 
 ### 👨‍💻 About Me :
 
-- 👤 I'm regularly on Discord
+- 👤 I'm regularly on nada
 
-- 👤 ask me about **html, cryptography and discord**
+- 👤 tampoco nada
 
-- 👤 contact me on discord sk4yx#1111
+- 👤 contact me on nada
 
-- 👤 I'm currently learning **javascript, python and discord.js**
+- 👤 I'm currently learning nada
 
 <div align="left">
     <h3>Languages and Frameworks:</h3>
 <div align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,ruby,php,go,discord,jquery,nodejs,rails" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,ruby,php,go,discord,jquery,nodejs,rails" /> (no me acuerdo nd)
 </div>
     
 -  -  -
